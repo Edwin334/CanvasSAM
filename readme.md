@@ -1,4 +1,4 @@
-# Image Editing with Segment Anything Model
+# CanvasSAM -- Image Editing with Segment Anything Model
 
 ## Overview
 
