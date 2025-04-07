@@ -73,10 +73,6 @@ The `content` directory contains sample images that you can use to test the func
 - [Segment Anything Model (SAM)](https://segment-anything.com/)
 - [SAM GitHub Repository](https://github.com/facebookresearch/segment-anything)
 
-## License
-
-[Specify your license here]
-
 ## Contributing
 
 Contributions to improve the project are welcome. Please feel free to submit a pull request.
