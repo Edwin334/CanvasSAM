@@ -4,21 +4,6 @@
 
 This project uses Meta AI's Segment Anything Model (SAM) for advanced image segmentation and editing. SAM is an AI model designed to identify and segment objects in images with minimal human input, enabling powerful image manipulation capabilities.
 
-![SAM Segmentation Steps](demo_image/final_output_gdino_sam_steps.png)
-
-## Features
-
-- Object segmentation in images
-- Image editing based on segmentation masks
-- Jupyter notebook demonstrating the workflow
-
-## Prerequisites
-
-- Python 3.8+
-- PyTorch
-- OpenCV
-- Additional dependencies listed in the requirements section
-
 ## Setup
 
 1. Clone this repository:
@@ -50,32 +35,6 @@ For the best performance, we recommend using Google Colab with A100 GPU:
 
 3. Follow the instructions in the notebook
 
-### Jupyter Notebook
-
-The project includes a Jupyter notebook (`sam.ipynb`) that demonstrates the entire workflow:
-
-1. Launch Jupyter Lab or Notebook:
-   ```
-   jupyter lab
-   ```
-   or
-   ```
-   jupyter notebook
-   ```
-
-2. Open `sam.ipynb` and follow the instructions within the notebook.
-
-### Sample Images
-
-The `content` directory contains sample images that you can use to test the functionality.
-
-## How It Works
-
-1. Load your original image into the system
-2. The Segment Anything Model identifies objects in your image with state-of-the-art precision
-3. You interactively select specific objects to edit
-4. Apply transformations to the selected segments (color changes, effects, removals, etc.)
-5. Export the edited image with professional quality results
 
 ## Examples
 
