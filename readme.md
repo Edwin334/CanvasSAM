@@ -48,12 +48,13 @@ This is the original test image before any processing:
 ### Image Segmentation and Editing
 After processing with CanvasSAM, objects can be precisely identified and manipulated:
 
+Plants
 ![Plant Transformation](demo_image/final_output_gdino_sam.png)
 
-
+The stone lion to the stone elephant 
 ![Lion to Elephant](demo_image/final_output_gdino_sam_lion.png)
 
-
+Unbrella
 ![Fancier Umbrella](demo_image/final_output_gdino_sam_umbrella.png)
 
 ## References
